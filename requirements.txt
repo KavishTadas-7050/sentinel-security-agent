@@ -1,0 +1,6 @@
+requests
+python-dotenv
+pydantic
+pytest
+pytest-cov
+ruff
