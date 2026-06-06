@@ -12,6 +12,10 @@ dependencies = [
     "requests",
     "python-dotenv",
     "pydantic",
+    "openai",
+    "langchain",
+    "langchain-community",
+    "langchain-core",
 ]
 
 [project.optional-dependencies]
