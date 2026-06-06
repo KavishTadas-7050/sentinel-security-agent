@@ -5,6 +5,8 @@ openai
 langchain
 langchain-community
 langchain-core
+networkx
+chromadb
 pytest
 pytest-cov
 ruff

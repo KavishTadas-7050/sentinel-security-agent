@@ -16,6 +16,8 @@ dependencies = [
     "langchain",
     "langchain-community",
     "langchain-core",
+    "networkx",
+    "chromadb",
 ]
 
 [project.optional-dependencies]
